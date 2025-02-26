@@ -15,14 +15,6 @@ We use publicly available datasets for training and testing:
 ✅ Web UI using **Streamlit** for real-time URL analysis  
 ✅ API integration with **Flask**  
 
-## 🔧 Installation  
-Clone the repository and install dependencies:  
-```bash
-git clone https://github.com/yourusername/Phishing-Detection-ML.git  
-cd Phishing-Detection-ML  
-pip install -r requirements.txt  
-```
-
 ## 🏗️ Usage  
 1️⃣ **Train the Model:**  
 ```bash
@@ -52,6 +44,3 @@ Feel free to fork, raise issues, or submit PRs to improve the model!
 This project is licensed under the **MIT License**.  
 
 ---
-```
-
-Let me know if you want any modifications or need help integrating your notebook into the project! 🚀
